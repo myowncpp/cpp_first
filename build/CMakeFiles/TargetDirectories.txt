@@ -1,8 +1,0 @@
-/data1/cpp_projects/project_02/build/CMakeFiles/rebuild_cache.dir
-/data1/cpp_projects/project_02/build/CMakeFiles/run_and_coverage.dir
-/data1/cpp_projects/project_02/build/CMakeFiles/build_test.dir
-/data1/cpp_projects/project_02/build/CMakeFiles/clean_all.dir
-/data1/cpp_projects/project_02/build/CMakeFiles/build_app.dir
-/data1/cpp_projects/project_02/build/CMakeFiles/app.dir
-/data1/cpp_projects/project_02/build/CMakeFiles/edit_cache.dir
-/data1/cpp_projects/project_02/build/CMakeFiles/utest.dir

@@ -5,6 +5,8 @@
 #include <sstream>
 #include <iomanip>
 
+int var;
+
 Logger::Logger() {
     m_logFile.open("log.txt", std::ios::app);
     if (!m_logFile.is_open()) {
